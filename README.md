@@ -11,7 +11,7 @@ I am building hands-on skills in monitoring, log analysis, and basic incident re
 - Linux and networking from a security perspective
 
 ## 🛠 Tools & Platforms
-- Linux
+- Linux (log analysis & basic commands)
 - Nmap
 - TryHackMe
 - Splunk (Learning)
